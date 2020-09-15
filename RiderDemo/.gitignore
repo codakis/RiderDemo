@@ -25,6 +25,7 @@ _UpgradeReport_Files/
 bin/
 obj/
 obj\
+./idea
 TestResults/
 ./vscode
 Migrations/
